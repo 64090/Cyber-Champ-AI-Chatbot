@@ -1,2 +1,2 @@
 # Cyber-Champ-AI-Chatbot
-My first repository
+AI educational chatbot project created during AI bootcamp.
